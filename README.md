@@ -5,3 +5,5 @@ Moore's law working
 <h3><h3>
 <br>
 <img src="https://github.com/27dvz3279/btc/blob/main/hr.png">
+<br>
+<img src="https://github.com/27dvz3279/btc/blob/main/long.png">
