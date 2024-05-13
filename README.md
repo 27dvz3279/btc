@@ -10,4 +10,4 @@ Moore's law working
 <br>
 <img src="https://github.com/27dvz3279/btc/blob/main/chart6.png">
 <br>
-<img src="https://github.com/27dvz3279/btc/blob/main/day4.png">
+<img src="https://github.com/27dvz3279/btc/blob/main/day5.png">
