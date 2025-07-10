@@ -8,6 +8,6 @@ Moore's law working
 <br>
 <img src="https://github.com/27dvz3279/btc/blob/main/long2025.png">
 <br>
-<img src="https://github.com/27dvz3279/btc/blob/main/chart10.png">
+<img src="https://github.com/27dvz3279/btc/blob/main/chart11.png">
 <br>
 <img src="https://github.com/27dvz3279/btc/blob/main/day8.png">
